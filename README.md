@@ -19,4 +19,4 @@
 ### Run the program
 
 ```bash
-python dna.py data/small.csv data/sequence.txt
+python dna.py str_database.csv sequence.txt
